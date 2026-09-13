@@ -21,12 +21,13 @@ Existing tools like [Todoist](https://www.todoist.com/) help with capturing and 
 ### Our Solution
 AI-powered workload stress manager built for university students who juggle mental, time, physical, social, and errand-based tasks with no system that reacts to how overwhelmed they actually are. Students log their tasks, and the AI continuously calculates a real-time workload percentage, escalating its response through staged interventions. Our system infers stress directly from behavior (task engagement, completion patterns, time-on-task) and responds proactively, including an agentic AI Task Coach that steps in the moment it detects a student struggling with a specific task. The result is a tool that manages workload and protects wellbeing at the same time, instead of treating productivity and mental health as separate problems.
 
-- **NLP-based task inference** — estimate complexity and duration directly from task description text, removing manual input
+- **Task Logging & Workload Engine** — students log tasks by category, due date, priority, and complexity; AI calculates a real-time workload percentage and a prioritized plan
+- **Staged Workload Intervention System** — severity escalates across three stages each with its own response frequency and intervention type
+- **Recovery Mission Mode** — at the most critical stage, the app shifts entirely into recovery-focused activities
 - **Behavioral overwhelm pre-inference** — use engagement signals (opens, edits, ignores) to predict overwhelm before the student confirms it
-- **Personalized workload thresholds** — calibrate each student's baseline over time instead of a fixed global threshold
 - **Named forecasting method** — implement Burnout Trajectory Forecasting via a concrete lightweight model (e.g. moving average or linear regression)
 - **Multi-step AI Task Coach pipeline** — classify the task's blocker type first, then generate a tailored breakdown, rather than a single LLM call
-
+- **Daily Mood Check-In** — a skippable pop-up on the first app open of each day
 
 ## 💡 Ideation & Thought Process
  
