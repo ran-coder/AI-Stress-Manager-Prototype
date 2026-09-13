@@ -1,4 +1,4 @@
-# FlowGuard: AI-Stress-Manager-App
+# FlowGuard
 
 > **Flow Guard uses AI to monitor and forecast student behavior in real time — keeping workload in check, catching burnout before it happens, and stepping in with soothing recommendations and an AI Task Coach the moment things get rough.**
 
