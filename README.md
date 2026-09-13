@@ -7,7 +7,6 @@
 ## 🎥 Deliverables & Links
 
 * 📹 **3–5 Min Pitch & Demo Video:** https://youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/ZL00hWQpf84
-  * *Video Title format:* `[Team Name] - [Project Name] Hackathon Demo`
 * 🎨 **Interactive Design Prototype:** https://morse-payer-13537298.figma.site
 * 📊 **Presentation Slides:** https://canva.link/m6q5f2th87175wu 
 
